@@ -1,2 +1,3 @@
-# comp2245-project1
-This Project 1 for Tyreque Davis 
+# COMP2245 Project 1
+
+This is Project 1 for <Your Name>
